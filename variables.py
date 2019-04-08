@@ -7,7 +7,18 @@ cycles_per_second = 2700000000.0 #2.7 Ghz
 
 cycle_distance = speed_of_light/cycles_per_second
 
+cycles_per_second = 2800000000.0 #2.8 Ghz
+
 print cycle_distance
 
+hours = 9
+hours = hours + 1
+hours = hours * 2
+
+print hours
+
+
+minutes = minutes + 1 #Error minutes not defined or initialize
+seconds = minutes * 60
 
 
