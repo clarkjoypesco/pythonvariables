@@ -18,7 +18,10 @@ hours = hours * 2
 print hours
 
 
-minutes = minutes + 1 #Error minutes not defined or initialize
-seconds = minutes * 60
+
+days = 49
+days = days - 1
+
+
 
 
